@@ -1,0 +1,4 @@
+rootProject.name = 'spring-content-issue-566'
+
+include 'library'
+include 'application'
